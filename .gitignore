@@ -1,0 +1,10 @@
+__pycache__/
+.Python
+instance/
+.webassets-cache
+.venv
+venv/
+/.git
+.git/
+/build
+.pytest_cache/
